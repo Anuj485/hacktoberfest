@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-- #### Name: [Anuj] (https://github.com/Anuj485)
+#### Name: Anuj (https://github.com/Anuj485)
 - Place: Pune, India
 - Bio: Aspiring Software Developer
 - GitHub: [Anuj485] (https://github.com/Anuj485)
