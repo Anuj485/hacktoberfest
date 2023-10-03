@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Anuj](https://github.com/Anuj485)
 - Place: Pune, India
 - Bio: Aspiring Software Developer
-- GitHub: [Anuj485] (https://github.com/Anuj485)
+- GitHub: [Anuj485](https://github.com/Anuj485)
